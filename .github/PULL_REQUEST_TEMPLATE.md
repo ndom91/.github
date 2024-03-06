@@ -16,7 +16,7 @@ Before submitting the PR, please make sure you do the following:
 
 ### Linked Issues
 
-<-- i.e. `Fixes #123` -->
+<!-- i.e. `Fixes #123` -->
 
 ### Additional context
 
